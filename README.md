@@ -5,13 +5,13 @@
 
 ## TL;DR(Summary)
 This is a clean and simple **Shopping List Manager** for households.  
-✔️ Share lists with family(or anyone, really)
-✔️ Works offline in read-only mode  
-✔️ Smart suggestions & autocomplete  
-✔️ Lists are auto-archived when complete for a clean UI
-✔️ Mark items as high priority or add notes to them
-✔️ Local lists stored on-device for personal use
-✔️ Enjoy a beautiful Material 3 Expressive UI
+- ✔️ Share lists with family(or anyone, really)
+- ✔️ Works offline in read-only mode  
+- ✔️ Smart suggestions & autocomplete  
+- ✔️ Lists are auto-archived when complete for a clean UI
+- ✔️ Mark items as high priority or add notes to them
+- ✔️ Local lists stored on-device for personal use
+- ✔️ Enjoy a beautiful Material 3 Expressive UI
 
 👉 [Download APK](https://github.com/Wazzicus/Shopping-Manager/releases/latest)
 
