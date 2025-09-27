@@ -1,6 +1,5 @@
 # Shopping Manager
 
-[![GitHub release (latest)](https://img.shields.io/github/v/release/Wazzicus/Shopping-Manager)](https://github.com/Wazzicus/Shopping-Manager/releases/latest)
 ![Platform](https://img.shields.io/badge/platform-Android%2013+-green)
 ![Status](https://img.shields.io/badge/status-Active-blue)
 
@@ -61,7 +60,7 @@ See the app in action:
   <img src="assets/Onboarding_Screen.png" alt="Onboarding screen" width="250"/>
   <img src="assets/Household_Onboarding_Screen.png" alt="Household Onboarding screen" width="250"/>
   <img src="assets/Home_Screen.png" alt="Home screen" width="250"/>
-  <img src="assets/Household_Screen.png" alt="Household screen" width="250"/>
+  <img src="assets/Household_Screen.png" alt="Household Screen" width="250"/>
   <img src="assets/New_Item_Modal_Screen.png" alt="New Item Modal screen" width="250"/>
   <img src="assets/Shopping_List_Screen.png" alt="Shopping List screen" width="250"/>
   <img src="assets/Activity_History_Screen.png" alt="Activity History screen" width="250"/>
@@ -72,7 +71,7 @@ See the app in action:
 
 ## 📥 Download
 👉 Get the latest APK here:  
-[**⬇️ Download from Releases**](https://github.com/Wazzicus/Shopping-Manager/releases/latest)
+[**⬇️ Tap/Click here to download**](https://github.com/Wazzicus/Shopping-Manager/releases/latest)
 
 ---
 
