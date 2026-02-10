@@ -106,6 +106,8 @@ See the app in action:
 This project is currently **proprietary**.  
 You may **view** and [**download the APK**](https://github.com/Wazzicus/Shopping-Manager/releases/latest), but the source code is not open for reuse or modification at this time.
 
+Read the [**Privacy Policy**](https://privacypolicy.shoppingmanager.abelle.site) and [**Terms of Service**](https://tos.shoppingmanager.abelle.site) here.
+
 ---
 
 ## 👤 Author
