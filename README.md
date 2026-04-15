@@ -1,6 +1,6 @@
 # Shopping Manager
 <p align="center">
-  <img src="assets/Images/Feature_Graphic.svg" alt="Screenshot showing the features of Shopping Manager" width="100%"/>
+  <img src="assets/Images/Feature_Graphic.png" alt="Screenshot showing the features of Shopping Manager" width="100%"/>
 </p>
 
 [![GitHub release (latest)](https://img.shields.io/github/v/release/Wazzicus/Shopping-Manager)](https://github.com/Wazzicus/Shopping-Manager/releases/latest)
