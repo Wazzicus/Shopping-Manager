@@ -30,7 +30,7 @@ Key highlights:
 - **Create local lists** stored on-device for solo use. 
 - **Modern UI** – built with Material 3 & Jetpack Compose.  
 
-This app is backed by a **Supabase** backend, with additional support from **Firebase**.  
+This app is backed by a [Supabase](https://supabase.com) backend, with additional support from [Firebase](https://firebase.google.com).  
 
 
 ---
