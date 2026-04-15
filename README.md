@@ -68,7 +68,14 @@ See the app in action:
 ---
 
 ## 📥 Download
-👉 Get the latest APK here:  
+Get it on the Play Store:
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.emmanuel.shoppingmanager">
+    <img src="assets/Images/GetItOnGooglePlay_Badge_Web_color_English.svg" width="200">
+  </a>
+</p>
+
+👉 Or get the latest APK here:  
 [**⬇️ Download from Releases**](https://github.com/Wazzicus/Shopping-Manager/releases/latest)
 
 ---
@@ -103,8 +110,7 @@ See the app in action:
 ---
 
 ## 📜 License
-This project is currently **proprietary**.  
-You may **view** and [**download the APK**](https://github.com/Wazzicus/Shopping-Manager/releases/latest), but the source code is not open for reuse or modification at this time.
+This project is currently **proprietary**.The source code is not open for reuse or modification at this time.
 
 Read the [**Privacy Policy**](https://privacypolicy.shoppingmanager.abelle.site) and [**Terms of Service**](https://tos.shoppingmanager.abelle.site) here.
 
