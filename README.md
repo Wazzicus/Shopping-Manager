@@ -1,6 +1,6 @@
 # Shopping Manager
 <p align="center">
-  <img src="assets/Images/ShoppingManager.jpg" alt="Screenshot showing the features of Shopping Manager" width="100%"/>
+  <img src="assets/Images/Feature_Graphic.svg" alt="Screenshot showing the features of Shopping Manager" width="100%"/>
 </p>
 
 [![GitHub release (latest)](https://img.shields.io/github/v/release/Wazzicus/Shopping-Manager)](https://github.com/Wazzicus/Shopping-Manager/releases/latest)
@@ -13,21 +13,11 @@
   </a>
 </p>
 
-## TL;DR(Summary)
-This is a clean and simple **Shopping List Manager** for households.  
-✔️ Share lists with family(or anyone, really)
-✔️ Works offline in read-only mode
-✔️ Enjoy a beautiful Material 3 Expressive UI
-✔️ Lists are auto-archived when complete for a clean UI
-✔️ Mark items as high priority or add notes to them
-✔️ Local lists stored on-device for personal use
-
-
 👉 [Download APK](https://github.com/Wazzicus/Shopping-Manager/releases/latest)
 
 ---
 
-## 📖 Description
+## Description
 Shopping Manager is a **household shopping list app** built with a focus on simplicity, collaboration, and great design.  
 Unlike messy notes apps, it is designed specifically for collaborative shopping and so it provides **shared lists** with features like priorities, notes, suggestions and much more.  
 
@@ -46,7 +36,7 @@ This app is backed by a **Supabase** backend, with additional support from **Fir
 ---
 
 ## ✨ Features
-- **Household lists** – create and share shopping lists with family members.  
+- **Household lists** – create and share shopping lists with family members or anyone you live with.  
 - **Notes & priority levels** for items.   
 - **Dark mode support** with a new Pitch black mode.
 - **Support for personal, local lists** stored on-device.  
@@ -57,7 +47,7 @@ This app is backed by a **Supabase** backend, with additional support from **Fir
 
 ---
 
-## 📱 Screenshots
+## Screenshots
 
 See the app in action:
 
@@ -67,15 +57,15 @@ See the app in action:
 
 ---
 
-## 📥 Download
-Get it on the Play Store:
+## Download
+Get it on the Play Store (Recommended):
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.emmanuel.shoppingmanager">
     <img src="assets/Images/GetItOnGooglePlay_Badge_Web_color_English.svg" width="200">
   </a>
 </p>
 
-👉 Or get the latest APK here:  
+👉 Or download the APK here:  
 [**⬇️ Download from Releases**](https://github.com/Wazzicus/Shopping-Manager/releases/latest)
 
 ---
@@ -100,17 +90,9 @@ Get it on the Play Store:
 
 ---
 
-## 🚀 Roadmap
-- [ ] Multi-platform support(iOS, Web) 
-- [ ] Add home screen widgets
-- [ ] Add barcode scanning for quick item entry  
-- [ ] Create an item database 
-- [ ] Add budgeting features and price tracking.
-
----
 
 ## 📜 License
-This project is currently **proprietary**.The source code is not open for reuse or modification at this time.
+This project is currently **proprietary**. The source code is not open for reuse or modification at this time.
 
 Read the [**Privacy Policy**](https://privacypolicy.shoppingmanager.abelle.site) and [**Terms of Service**](https://tos.shoppingmanager.abelle.site) here.
 
