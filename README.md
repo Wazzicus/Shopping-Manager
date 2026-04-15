@@ -1,8 +1,17 @@
 # Shopping Manager
+<p align="center">
+  <img src="assets/Images/ShoppingManager.jpg" alt="Screenshot showing the features of Shopping Manager" width="100%"/>
+</p>
 
 [![GitHub release (latest)](https://img.shields.io/github/v/release/Wazzicus/Shopping-Manager)](https://github.com/Wazzicus/Shopping-Manager/releases/latest)
 ![Platform](https://img.shields.io/badge/platform-Android%2013+-green)
 ![Status](https://img.shields.io/badge/status-Active-blue)
+
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.emmanuel.shoppingmanager">
+    <img src="assets/Images/GetItOnGooglePlay_Badge_Web_color_English.svg" width="200">
+  </a>
+</p>
 
 ## TL;DR(Summary)
 This is a clean and simple **Shopping List Manager** for households.  
@@ -38,14 +47,13 @@ This app is backed by a **Supabase** backend, with additional support from **Fir
 
 ## ✨ Features
 - **Household lists** – create and share shopping lists with family members.  
-- **Notes & priority levels** for items.  
-- **Offline mode** – read-only access when offline.  
+- **Notes & priority levels** for items.   
 - **Dark mode support** with a new Pitch black mode.
 - **Support for personal, local lists** stored on-device.  
-- **Auto-archiving** of completed lists.  
+- **Auto-archiving** of completed lists to keep things tidy.
 - **Google Sign-In** for quick and easy access.  
 - **Beautiful Material 3 UI** with touches of Material 3 Expressive elements.  
-- **Push notifications** (Work in Progress).  
+- **Push notifications**  
 
 ---
 
@@ -54,14 +62,7 @@ This app is backed by a **Supabase** backend, with additional support from **Fir
 See the app in action:
 
 <p align="center">
-  <img src="assets/Onboarding_Screen.png" alt="Onboarding screen" width="250"/>
-  <img src="assets/Login_Screen.png" alt="Login screen" width="250"/>
-  <img src="assets/Home_Screen.png" alt="Home screen" width="250"/>
-  <img src="assets/Household_Screen.png" alt="Household screen" width="250"/>
-  <img src="assets/New_Item_Modal_Screen.png" alt="New Item Modal screen" width="250"/>
-  <img src="assets/Shopping_List_Screen.png" alt="Shopping List screen" width="250"/>
-  <img src="assets/Activity_History_Screen.png" alt="Activity History screen" width="250"/>
-  <img src="assets/Settings_Screen.png" alt="Settings screen" width="250"/>
+  <img src="assets/Images/Master Screenshot.png" alt="Screenshot showing the features of Shopping Manager" width="100%"/>
 </p>
 
 ---
@@ -72,24 +73,23 @@ See the app in action:
 
 ---
 
-## For the Nerds(My Stack):
+## For the Nerds:
 
 **Frontend (Android)**  
 - Kotlin, Jetpack Compose, Room, Retrofit, Hilt, Firebase  
 
 **Backend**  
-- Supabase 
+- [Supabase](https://supabase.com) 
 
 **Other**  
-- Firebase for messaging(push notifications) and authentication 
+- Firebase Cloud Messaging for push notifications 
+- [Figma](https://figma.com) and [Inkscape](https://inkscape.org) for the Marketing materials/imagery
 
 ---
 
-## Cons / Limitations  
-- ❌ Requires internet for full functionality (offline mode is read-only).  
+## Cons / Limitations 
 - ❌ Only Android is supported for now.  
-- ❌ No price-tracking, items database or budgeting features as of now.
-- ❌ Some features (e.g., conflict resolution on simultaneous edits, push notifications) are still being worked on.  
+- ❌ No price-tracking, items database or budgeting features as of now. 
 
 ---
 
@@ -111,4 +111,4 @@ Read the [**Privacy Policy**](https://privacypolicy.shoppingmanager.abelle.site)
 ---
 
 ## 👤 Author
-Developed with ❤️ by [**Emmanuel Abelle (Wazzicus)**](https://github.com/Wazzicus)  
+Developed with ❤️ by [**Emmanuel Abelle**](https://emmanuel.abelle.site)  
