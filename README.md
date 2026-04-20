@@ -3,17 +3,16 @@
   <img src="assets/Images/Feature_Graphic.png" alt="Screenshot showing the features of Shopping Manager" width="100%"/>
 </p>
 
-[![GitHub release (latest)](https://img.shields.io/github/v/release/Wazzicus/Shopping-Manager)](https://github.com/Wazzicus/Shopping-Manager/releases/latest)
-![Platform](https://img.shields.io/badge/platform-Android%2013+-green)
-![Status](https://img.shields.io/badge/status-Active-blue)
+<div align="center">
+  [![GitHub release (latest)](https://img.shields.io/github/v/release/Wazzicus/Shopping-Manager)](https://github.com/Wazzicus/Shopping-Manager/releases/latest)
+  ![Platform](https://img.shields.io/badge/platform-Android%2013+-green)
+  ![Status](https://img.shields.io/badge/status-Active-blue)
 
-<p align="center">
+
   <a href="https://play.google.com/store/apps/details?id=com.emmanuel.shoppingmanager">
     <img src="assets/Images/GetItOnGooglePlay_Badge_Web_color_English.svg" width="200">
   </a>
-</p>
-
-👉 [Download APK](https://github.com/Wazzicus/Shopping-Manager/releases/latest)
+</div>  
 
 ---
 
@@ -58,12 +57,7 @@ See the app in action:
 ---
 
 ## Download
-Get it on the Play Store (Recommended):
-<p align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.emmanuel.shoppingmanager">
-    <img src="assets/Images/GetItOnGooglePlay_Badge_Web_color_English.svg" width="200">
-  </a>
-</p>
+Get it on the [Play Store](https://play.google.com/store/apps/details?id=com.emmanuel.shoppingmanager) (Recommended)
 
 👉 Or download the APK here:  
 [**⬇️ Download from Releases**](https://github.com/Wazzicus/Shopping-Manager/releases/latest)
