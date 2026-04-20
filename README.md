@@ -4,11 +4,6 @@
 </p>
 
 <div align="center">
-  [![GitHub release (latest)](https://img.shields.io/github/v/release/Wazzicus/Shopping-Manager)](https://github.com/Wazzicus/Shopping-Manager/releases/latest)
-  ![Platform](https://img.shields.io/badge/platform-Android%2013+-green)
-  ![Status](https://img.shields.io/badge/status-Active-blue)
-
-
   <a href="https://play.google.com/store/apps/details?id=com.emmanuel.shoppingmanager">
     <img src="assets/Images/GetItOnGooglePlay_Badge_Web_color_English.svg" width="200">
   </a>
